@@ -1,35 +1,51 @@
-# 👋 Olá, eu sou a Débora Souza!
+<!-- Importando a fonte Bentham -->
+<link href="https://fonts.googleapis.com/css2?family=Bentham&display=swap" rel="stylesheet">
 
-💻 Programadora em formação  
-📞 SDR com foco em comunicação e resultados  
-🎨 Designer criativa nas horas vagas  
+<!-- Palavra japonesa + Nome -->
+<h3 align="center" style="font-size: 12px; font-weight: normal;">スケジュール</h3>
+<h4 align="center" style="font-size: 14px; font-weight: normal;">Olá, meu nome é Débora!</h4>
 
-Atualmente estudo desenvolvimento front-end com foco em **HTML, CSS e JavaScript**, e estou construindo meus primeiros projetos enquanto compartilho meu progresso e aprendizados.
+<!-- Hello Kitty centralizada -->
+<p align="center">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHozZWZiYjJ4bDN2bXRraGM4ZWh6Z3Ayang3b2RmcWlvemtiOG9pMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kZqbBT64ECtjy/giphy.gif" width="100px">
+</p>
 
----
+<!-- Setinha que leva ao More Info -->
+<p align="center">
+  <a href="#more-info" style="text-decoration: none; font-size: 10px;">
+    ⬇️ More Info
+  </a>
+</p>
 
-## 🚀 Habilidades em desenvolvimento:
-- HTML5, CSS3
-- JavaScript (iniciando)
-- Git e GitHub
-- Figma (design para redes sociais)
-
----
-
-## 🛠️ Projetos
-| Projeto | Descrição | Link |
-|--------|-----------|------|
-| Página Pessoal 💻 | Um site com minhas informações, contato e trajetória | *(em breve)* |
-| Lista de Tarefas 📋 | Projeto simples para treinar JS | *(em breve)* |
-| Calculadora 🧮 | Projeto simples com HTML, CSS e JS | *(em breve)* |
-
----
-
-## 📫 Onde me encontrar:
-- [LinkedIn](https://www.linkedin.com/in/deborasouzap)
-- [Instagram](https://instagram.com/debbsouz)
-- ✉️ deborasouza.p@outlook.com
+<!-- Linguagens de programação com ícones pequenos -->
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="20px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="20px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="20px"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20px"/>
+</p>
 
 ---
 
-✨ *Busco minha primeira oportunidade como programadora júnior ou estagiária em tech. Se quiser construir algo legal comigo, me chama!*
+<!-- Área More Info -->
+<h5 id="more-info" align="center" style="font-family: 'Bentham', serif; font-size: 10px; font-weight: normal; color: #d38dbf;">
+Welcome!<br>
+I'm from Brazil<br>
+I'm a programming student<br>
+I speak 🇧🇷 Portuguese, 🇺🇸 English and 🇪🇸 Spanish
+</h5>
+
+<!-- Contato e redes sociais -->
+<p align="center" style="font-size: 12px;">
+  💌 <a href="mailto:deborasouza.p@outlook.com" style="color: #d38dbf;">deborasouza.p@outlook.com</a><br>
+  <a href="https://www.instagram.com/debbsouz/" target="_blank">
+    <img alt="Instagram" width="20px" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" />
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/deborasouzap/" target="_blank">
+    <img alt="LinkedIn" width="20px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />
+  </a>
+</p>
+
+---
+
